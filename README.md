@@ -1,0 +1,1 @@
+This repository demonstrates a subtle buffer overflow bug in assembly language and its solution. The bug arises from an unsafe memory access instruction, potentially leading to program crashes or security vulnerabilities. The solution implements appropriate bounds checking to prevent the overflow.
